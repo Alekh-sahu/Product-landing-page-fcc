@@ -1,0 +1,81 @@
+img{
+  width:20%;
+}
+header {
+  font-size:5px;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-color: #66BFBF;
+  color: white;
+  padding: 0;
+}
+.container{
+  margin-bottom:00px;
+}
+
+
+
+body{
+  background-color:#66BFBF;
+  text-align:center;
+}
+#email{
+  max-width: 275px;
+    width: 100%;
+    padding: 5px;
+}
+
+
+
+.btn{
+   max-width: 150px;
+    width: 50%;
+    height: 25px;
+    margin: 15px 0;
+    border: 0;
+    background-color:#f1c40f ;
+}
+
+.btn:hover {
+  background-color:#EAF6F6;
+      transition: 0.3s;
+  }
+@media
+.nav-link {
+    width: 100%;
+    padding:20px;
+    text-decoration:none;
+}
+a{
+  text-decoration:none;
+   font-size: 16px;
+}
+h3{
+
+    color: blue;
+    padding: 15px 0;
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: 100;
+}
+
+.product {
+    max-width: 250px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    border: 1px solid #000;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+footer{
+text-align:center;  background-color:#A6D1E6;
+padding-bottom:10px;
+width:100%
+margin:0;
+}
